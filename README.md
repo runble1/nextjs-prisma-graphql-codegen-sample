@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js + Prsima + GraphQL
+
+https://zenn.dev/typebase/books/nextjs-prisma-graphql-codegen-webapp/viewer/next-setup
 
 ## Getting Started
 
